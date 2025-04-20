@@ -1,5 +1,5 @@
 ### Hi, I'm Deokhyung Kang!👋
-Welcome to my GitHub! I'm a Ph.D. student in Natural Language Processing (NLP) at POSTECH, researching language models and their applications in real-world scenarios. 
+Welcome to my GitHub! I'm a Ph.D. student in Natural Language Processing (NLP) Lab in POSTECH, researching language models and their applications in real-world scenarios. 
 I keep my profile and latest updates on my [blog](https://deokhk.github.io/). If you're curious about what I'm up to, feel free to check it out!
 <!--
 **deokhk/deokhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
